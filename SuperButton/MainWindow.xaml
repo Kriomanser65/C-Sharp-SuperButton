@@ -1,0 +1,23 @@
+﻿<Window x:Class="SuperButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SuperButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content=" " Background="Black" Margin="40,0,0,400"/>
+        <Button Content=" " Background="Black" Margin="0,400,0,0"/>
+        <Button Content=" " Background="Black" Margin="0,0,780,34"/>
+        <Button Content=" " Background="Black" Margin="780,0,0,34"/>
+        <Button Content=" " Background="Black" Margin="52,334,52,66"/>
+        <Button Content=" " Background="Black" Margin="75,277,86,123"/>
+        <Button Content=" " Background="Black" Margin="40,0,740,66"/>
+        <Button Content=" " Background="Black" Margin="739,81,41,66"/>
+        <Button Content=" " Background="Black" Margin="75,59,41,341"/>
+        <Button Content=" " Background="Black" Margin="75,59,705,123"/>
+        <Button Content=" " Background="Black" Margin="694,128,86,123"/>
+        <Button Content=" " Background="Black" Margin="127,119,86,281"/>
+    </Grid>
+</Window>
